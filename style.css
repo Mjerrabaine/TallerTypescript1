@@ -1,0 +1,16 @@
+.televisor{
+    max-width: 100%;
+    max-height: 100%;
+}
+.encabezado{
+    background-color: rgba(108, 141, 212, 0.775);
+    padding: 10px;
+    height: 80px;
+    font-size: 25px;
+    font-weight: bold;
+}
+#promedio{
+    margin: 10px, black;
+    padding: 50px,black;
+    font-weight: bold;
+}
